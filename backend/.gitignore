@@ -1,0 +1,23 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Uploaded resumes
+uploads/
+
+# Node
+node_modules/
+
+# React build
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
